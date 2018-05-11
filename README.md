@@ -1,3 +1,4 @@
+git push bitbucket master
 # Video.js Icon Font
 
 This project contains all of the tooling necessary to generate a new icon font for Video.js. The icons themselves are from
