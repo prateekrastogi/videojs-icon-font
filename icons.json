@@ -1,4 +1,5 @@
 {
+  "pseudo_field_comment": "Not adding other remaining icons of collected folder as all the icons (default/collected) are converted to fonts which are mono-color with white as their default color",
   "font-name": "VideoJS",
   "root-dir": "./node_modules/material-design-icons/",
   "icons": [{
@@ -54,7 +55,8 @@
     "svg": "action/svg/production/ic_list_48px.svg"
   }, {
     "name": "share",
-    "svg": "social/svg/production/ic_share_48px.svg"
+    "svg": "share-social-solid.svg",
+    "root-dir": "./custom-icons/collected/"
   }, {
     "name": "cog",
     "svg": "action/svg/production/ic_settings_48px.svg"
@@ -75,11 +77,12 @@
     "svg": "navigation/svg/production/ic_cancel_48px.svg"
   }, {
     "name": "replay",
-    "svg": "av/svg/production/ic_replay_48px.svg"
+    "svg": "replay.svg",
+    "root-dir": "./custom-icons/collected/"
   }, {
     "name": "facebook",
     "svg": "facebook.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "root-dir": "./custom-icons/collected/"
   }, {
     "name": "gplus",
     "svg": "gplus.svg",
@@ -91,15 +94,15 @@
   }, {
     "name": "twitter",
     "svg": "twitter.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "root-dir": "./custom-icons/collected/"
   }, {
     "name": "tumblr",
     "svg": "tumblr.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "root-dir": "./custom-icons/collected/"
   }, {
     "name": "pinterest",
     "svg": "pinterest.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "root-dir": "./custom-icons/collected/"
   }, {
     "name": "audio-description",
     "svg": "audio-description.svg",
