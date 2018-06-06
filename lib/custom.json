@@ -1,20 +1,6 @@
 {
-    "pseudo_field_comment": "Not adding other remaining icons of collected folder as all the icons (default/collected) are converted to fonts which are mono-color with white as their default color",
-    "icons": [
-        {
-            "name": "scale-up-screen",
-            "svg": "scale-up-screen.svg",
-            "root-dir": "./custom-icons/collected/"
-        },
-        {
-            "name": "scale-down-screen",
-            "svg": "scale-down-screen.svg",
-            "root-dir": "./custom-icons/collected/"
-        },
-        {
-            "name": "share-social-line",
-            "svg": "share-social.svg",
-            "root-dir": "./custom-icons/collected/"
-        }
-    ]
+  "icons": [{
+    "name": "visibility",
+    "svg": "image/svg/production/ic_remove_red_eye_48px.svg"
+  }]
 }

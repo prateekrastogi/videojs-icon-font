@@ -1,5 +1,5 @@
 {
-  "pseudo_field_comment": "Not adding other remaining icons of collected folder as all the icons (default/collected) are converted to fonts which are mono-color with white as their default color",
+  "pseudo_field_comment": "Not adding other remaining icons of collected folder due to all the (default/collected[including colored social]) icons being converted to fonts which are mono-color with white as their default color and to keep generated icon file size small.",
   "font-name": "VideoJS",
   "root-dir": "./node_modules/material-design-icons/",
   "icons": [{
@@ -31,11 +31,11 @@
     "root-dir": "./custom-icons/collected/"
   }, {
     "name": "fullscreen-enter",
-    "svg": "maximize.svg",
+    "svg": "scale-up-screen.svg",
     "root-dir": "./custom-icons/collected/"
   }, {
     "name": "fullscreen-exit",
-    "svg": "minimize.svg",
+    "svg": "scale-down-screen.svg",
     "root-dir": "./custom-icons/collected/"
   }, {
     "name": "square",
@@ -77,7 +77,7 @@
     "svg": "navigation/svg/production/ic_cancel_48px.svg"
   }, {
     "name": "replay",
-    "svg": "replay.svg",
+    "svg": "replay-solid.svg",
     "root-dir": "./custom-icons/collected/"
   }, {
     "name": "facebook",

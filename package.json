@@ -7,7 +7,7 @@
     "url": "https://github.com/videojs/font.git"
   },
   "scripts": {
-    "version": "grunt --custom-json=./lib/custom.json && git add ."
+    "version": "grunt && git add ."
   },
   "keywords": [
     "videojs"
