@@ -55,7 +55,7 @@
     "svg": "action/svg/production/ic_list_48px.svg"
   }, {
     "name": "share",
-    "svg": "share-social-solid.svg",
+    "svg": "share-social.svg",
     "root-dir": "./custom-icons/collected/"
   }, {
     "name": "cog",
